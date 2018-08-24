@@ -8,7 +8,7 @@
 * [第1章：Go 语言的起源，发展与普及](di-1-zhang-ff1a-go-yu-yan-de-qi-yuan-ff0c-fa-zhan-yu-pu-ji.md)
   * [起源与发展](01.1.md)
   * [语言的主要特性与发展的环境和影响因素](01.2.md)
-* 第2章：安装与运行环境
+* [第2章：安装与运行环境](di-2-zhang-ff1a-an-zhuang-yu-yun-xing-huan-jing.md)
   * [平台与架构](02.1.md)
   * [Go 环境变量](02.2.md)
   * [在 Linux 上安装 Go](02.3.md)
